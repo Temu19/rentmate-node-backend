@@ -1,13 +1,14 @@
 # RentMate Backend
 
-## React + TypeScript + Vite
+## Nodejs + express
 
-This is the frontend repository for RentMate, a web application for managing rental properties. The project is built using Vite, a modern build toolchain for JavaScript and TypeScript projects.
+This is the Backend repository for RentMate,
 
 ## Getting Started
 
 To get started with the RentMate frontend project, follow these steps:
 
+1. Folk the repository:
 1. Clone the repository to your local machine:
 
 ```
