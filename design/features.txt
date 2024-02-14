@@ -1,0 +1,16 @@
+
+## features
+  
+ - user creating 
+ - user loging 
+ - user google oauth
+
+ - displaying items 
+
+ -------------------
+ 
+ validation 
+ configuration
+ middleware 
+ error handling
+ authentication

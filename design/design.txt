@@ -1,0 +1,9 @@
+# dependencies
+- nodemon
+- dotenv
+- express
+- mongoose
+- mongodb
+- joi : for validation
+- jsonwebtoken(jwt) : for storing cookies
+- bcryptjs : for encryption
