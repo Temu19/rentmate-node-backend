@@ -9,29 +9,46 @@ This is the Backend repository for RentMate,
 To get started with the RentMate frontend project, follow these steps:
 
 1. Folk the repository:
-1. Clone the repository to your local machine:
+2. Clone the repository to your local machine:
 
 ```
 git clone https://github.com/bealugirma23/rentmate-node-backend.git
 ```
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
 ```
 cd RentMate-frontend
 ```
 
-3. Install the dependencies:
+4. Install the dependencies:
 
 ```
 npm install
 ```
-
-4. Start the development server:
+5. Create a .env file in the root directory of the project with the following content:
+   
+  ```
+PORT=5000
+MONGODB_PORT=<your MongoDB connection URL>
+JWT_SECRET=abcdefg
+NODE_ENV=development
+```
+6. Start the development server:
 
 ```
 npm run dev
 ```
+
+## dependencies
+- nodemon
+- dotenv
+- express
+- mongoose
+- mongodb
+- joi : for validation
+- jsonwebtoken(jwt) : for storing cookies
+- bcryptjs : for encryption
 
 ## Contributing
 
