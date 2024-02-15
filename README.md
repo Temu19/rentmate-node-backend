@@ -1,4 +1,4 @@
-# RentMate Backend
+# RentMate: Backend
 
 ## Nodejs + express
 
